@@ -2,10 +2,6 @@
 title: This is my first post
 ---
 
-Donec sed odio dui. Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna.
+"It was a process!" India Hicks exclaims over the phone. She's referring to her latest book, India Hicks: A Slice of England, but she could just as easily be discussing what it took to build her English country home. This manor, a Georgian-style country retreat located in bucolic Oxfordshire, is in fact the partial subject of India's new book. The other points of focus are her infamous family homes.
 
-Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor.
-
-Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus.
+Because while India is now known for her own eponymous lifestyle business, she comes from storied British lineage. Her mother is Lady Pamela Hicks, Prince Philip's first cousin, while her father, David Nightingale Hicks, was a noted interiors and landscape designer. It comes as no huge surprise then that when it came time for India to build her own English retreat, she was repeatedly inspired by her own heritage.

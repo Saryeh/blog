@@ -8,3 +8,4 @@ I am going to be creating a website which focuses on the topic of health, wellne
 <img src="images/foodstuff/color palette.pdf">
 <img src="images/foodstuff/photoshoots.pdf">
 <img src="images/foodstuff/font idea.pdf">
+<img src="images/foodstuff/dragged.pdf">

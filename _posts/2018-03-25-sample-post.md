@@ -11,5 +11,3 @@ I have been working on branding and designing the aestheic, which will be femini
 <img src="images/blog2/blog5.png">
 <img src="images/blog2/blog6.png">
 <img src="images/blog2/blog7.png">
-
-<img src="images/foodstuff/food1.pdf">

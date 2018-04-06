@@ -1,19 +1,13 @@
 ---
-title: This is my second post
+title: SECOND POST
 ---
 
-Donec sed odio dui. Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna.
+I have been working on branding and designing the aestheic, which will be feminine and targeting young people between the ages of 18-28. It will be quircky and heavily inspired by the artist Chloe Wise whose artwork is centered around food and so the imagery will stem from that. I am between two display fonts of Wavehaus which is sans serif and 'Casual', which is a serif typeface. For coding I have been working on the opening page where the title revive fades in however the portals that act as the navigation menu are a work in progress. When you hover they will emerge and you click to go to another page. Also the carousel that i intended to be an arc is difficult to make so instead I will change the size of the images to create an impression of persepctive. 
 
-Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor.
-
-Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus.
-
-Donec sed odio dui. Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor.
-
-Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus.
+<img src="blog2/blog1.png">
+<img src="blog2/blog2.png">
+<img src="blog2/blog3.png">
+<img src="blog2/blog4.png">
+<img src="blog2/blog5.png">
+<img src="blog2/blog6.png">
+<img src="blog2/blog7.png">
